@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.8b00d578.chunk.css",
-    "main.js": "/developer-portfolio/static/js/main.2e2d4560.chunk.js",
-    "main.js.map": "/developer-portfolio/static/js/main.2e2d4560.chunk.js.map",
+    "main.js": "/developer-portfolio/static/js/main.7ba37084.chunk.js",
+    "main.js.map": "/developer-portfolio/static/js/main.7ba37084.chunk.js.map",
     "runtime-main.js": "/developer-portfolio/static/js/runtime-main.835dfba9.js",
     "runtime-main.js.map": "/developer-portfolio/static/js/runtime-main.835dfba9.js.map",
     "static/css/2.f44803aa.chunk.css": "/developer-portfolio/static/css/2.f44803aa.chunk.css",
@@ -15,7 +15,6 @@
     "static/css/main.8b00d578.chunk.css.map": "/developer-portfolio/static/css/main.8b00d578.chunk.css.map",
     "static/js/2.21b462e6.chunk.js.LICENSE.txt": "/developer-portfolio/static/js/2.21b462e6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developer-portfolio/static/media/BestermindRegular.e58a1922.ttf",
-    "static/media/IMG_7228.b2dd9c4d.PNG": "/developer-portfolio/static/media/IMG_7228.b2dd9c4d.PNG",
     "static/media/MyResume.4321fbc8.pdf": "/developer-portfolio/static/media/MyResume.4321fbc8.pdf",
     "static/media/adobe-xd.a6dca99d.svg": "/developer-portfolio/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/developer-portfolio/static/media/adobeaudition.afa937d5.svg",
@@ -98,6 +97,7 @@
     "static/media/markdown.62e50cf0.svg": "/developer-portfolio/static/media/markdown.62e50cf0.svg",
     "static/media/materialui.518da2c0.svg": "/developer-portfolio/static/media/materialui.518da2c0.svg",
     "static/media/matlab.3d4e15a6.svg": "/developer-portfolio/static/media/matlab.3d4e15a6.svg",
+    "static/media/mee.86082605.png": "/developer-portfolio/static/media/mee.86082605.png",
     "static/media/memsql.aecce246.svg": "/developer-portfolio/static/media/memsql.aecce246.svg",
     "static/media/microsoftoffice.c3a1f4f1.svg": "/developer-portfolio/static/media/microsoftoffice.c3a1f4f1.svg",
     "static/media/mongoDB.6c6da702.svg": "/developer-portfolio/static/media/mongoDB.6c6da702.svg",
@@ -149,6 +149,6 @@
     "static/css/2.f44803aa.chunk.css",
     "static/js/2.21b462e6.chunk.js",
     "static/css/main.8b00d578.chunk.css",
-    "static/js/main.2e2d4560.chunk.js"
+    "static/js/main.7ba37084.chunk.js"
   ]
 }
