@@ -3,7 +3,7 @@ import { BiShoppingBag, BiPencil } from "react-icons/bi";
 import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
 import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
 import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
-
+import bjj from '../assets/svg/bjj.png'
  
 
 export const servicesData = [
@@ -14,13 +14,13 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
+        title: 'President of PSU Grappling Club ',
+        //icon: bjj
     },
     {
         id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
+        title: 'Penn State CodePath',
+        //icon: <AiOutlineMail />
     },
     // {
     //     id: 4,
@@ -35,14 +35,18 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
-        icon: <BsCodeSlash />
+        title: 'Penn State Women in Engineering (WEP)',
+        //icon: <BsCodeSlash />
     },
+
+    
     {
         id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
+        title: 'Founder of PSU Women\'s Self Defense Club',
+        //icon: <FaCameraRetro />
     },
+]
+/*
     // {
     //     id: 8,
     //     title: 'Pinterest Virtual Assistant',
@@ -79,3 +83,4 @@ export const servicesData = [
 // Uncomment your required service.
 // Couldn't find the required services? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
 // You can also add on your own 😉.
+*/
